@@ -1,2 +1,3 @@
 JS-Inheritance
 ==============
+Some examples of inheritance patterns in JavaScript, I wanted to make something pretty simple yet thorough enough to be useful, under construction...
